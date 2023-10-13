@@ -48,7 +48,7 @@ https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/
 
 
 ### 個人專案：
-<img src="ubikesystem.png" alt="網站LOGO" width="300" height="90">
+<img src="ubikesystem.png" alt="網站LOGO" width="1280" height="640">
 
 
 # 經歷
