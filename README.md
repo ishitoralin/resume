@@ -44,8 +44,7 @@
 
 ## 開發經驗：
 
-網站LOGO：
-<img src="fortress-imagine.png" alt="圖片描述" width="300" height="90">
+網站LOGO：<img src="fortress-imagine.png" alt="圖片描述" width="300" height="90">
 
 # 經歷
 
