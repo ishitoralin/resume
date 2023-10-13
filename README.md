@@ -57,12 +57,15 @@ https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/
 - 寄送訂單明細 API
 - 購物車所有頁面 RWD 設計
 
-
-
-
 ### 個人專案：
 
 <img src="ubikesystem.png" alt="網站LOGO" width="830" height="386">
+
+##### 負責區塊：
+- 基本頁面形象呈現
+- 串接台北市政府ubike及時站點API
+
+
 
 # 經歷
 
