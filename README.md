@@ -12,12 +12,14 @@
 ## 前端技能：
 
 - HTML/CSS
+
   - 可使用原生語法刻出 Figma 所呈現之樣式。
   - 熟悉 Bootstrap、Material UI 等套件使用，加速開發進程。
   - 熟悉排版及 RWD 相關技巧(包含 grid、flex、position、z-index)。
   - 了解 Saas 使用加速專案開發
 
 - Javascript ES5/ES6 語法
+
   - 熟悉使用 JS 原生語法串接 API
   - 熟悉 JSON 資料處理
 
@@ -31,6 +33,7 @@
 ## 後端技能：
 
 - Node.js(Express)
+
   - 熟悉資料庫串接(MySQL、MAMP，了解 MongoDB 基本概念)
   - 熟悉由前端送來資料型態處理
   - 熟悉 middleware 建立及使用
@@ -41,15 +44,15 @@
 
 ## 開發經驗：
 
-### 網站LOGO：
+### 網站 LOGO：
+
 <img src="fortress-imagine.png" alt="網站LOGO" width="300" height="90">
 畫面及RWD效果請參考
 https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/edit?usp=drive_link
 
-
 ### 個人專案：
-<img src="ubikesystem.png" alt="網站LOGO" width="1280" height="640">
 
+<img src="ubikesystem.png" alt="網站LOGO" width="540" height="252">
 
 # 經歷
 
