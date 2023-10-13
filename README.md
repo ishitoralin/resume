@@ -50,6 +50,15 @@
 畫面及RWD效果請參考
 https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/edit?usp=drive_link
 
+負責區塊：
+商品、課程加入購物車API
+購物車結帳流程前後端API開設與串接
+藍新金流串接
+寄送訂單明細API
+購物車所有頁面RWD設計
+
+
+
 ### 個人專案：
 
 <img src="ubikesystem.png" alt="網站LOGO" width="830" height="386">
