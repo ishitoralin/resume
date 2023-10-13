@@ -28,8 +28,15 @@ React(Next.js)
 了解 Typescript開發基本概念 
 
 後端技能：
-Node.js
-熟悉 
+Node.js(Express)
+熟悉 資料庫串接(MySQL、MAMP，了解MongoDB基本概念)
+熟悉 由前端送來資料型態處理
+熟悉 middleware建立及使用
+
+PHP
+了解 基本語法
+了解 使用PHP開發網頁
+
 
 # 經歷
 
