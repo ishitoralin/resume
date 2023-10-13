@@ -47,6 +47,10 @@
 https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/edit?usp=drive_link
 
 
+### 個人專案：
+<img src="ubikesystem.png" alt="網站LOGO" width="300" height="90">
+
+
 # 經歷
 
 - **2023~** 進修 資展國際前端工程師養成班--結業
