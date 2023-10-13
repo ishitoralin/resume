@@ -44,8 +44,8 @@
 
 ## 開發經驗：
 
-大型電商專案開發：
-![網站形象](fortress-imagine.png)
+網站LOGO：
+<img src="fortress-imagine.png" alt="圖片描述" width="300" height="200">
 
 # 經歷
 
