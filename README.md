@@ -12,12 +12,14 @@
 ## 前端技能：
 
 - HTML/CSS
+
   - 可使用原生語法刻出 Figma 所呈現之樣式。
   - 熟悉 Bootstrap、Material UI 等套件使用，加速開發進程。
   - 熟悉排版及 RWD 相關技巧(包含 grid、flex、position、z-index)。
   - 了解 Saas 使用加速專案開發
 
-- Javascript ES5/ES6語法
+- Javascript ES5/ES6 語法
+
   - 熟悉使用 JS 原生語法串接 API
   - 熟悉 JSON 資料處理
 
@@ -26,11 +28,12 @@
     - 熟悉 React 狀態管理、可重複使用元件開發
     - 熟悉網頁前後端分離及資料傳遞
     - 熟悉 API 串接(包含 Fetch API、Axios、AJAX)
-    - 了解 Typescript 開發基本概念 
+    - 了解 Typescript 開發基本概念
 
 ## 後端技能：
 
 - Node.js(Express)
+
   - 熟悉資料庫串接(MySQL、MAMP，了解 MongoDB 基本概念)
   - 熟悉由前端送來資料型態處理
   - 熟悉 middleware 建立及使用
@@ -38,6 +41,11 @@
 - PHP
   - 了解基本語法
   - 了解使用 PHP 開發網頁
+
+## 開發經驗：
+
+大型電商專案開發：
+![網站形象](fortress-imagine.png)
 
 # 經歷
 
