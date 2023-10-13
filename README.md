@@ -23,12 +23,11 @@
   - 熟悉使用 JS 原生語法串接 API
   - 熟悉 JSON 資料處理
 
-- 前端框架：
-  - React(Next.js)
-    - 熟悉 React 狀態管理、可重複使用元件開發
-    - 熟悉網頁前後端分離及資料傳遞
-    - 熟悉 API 串接(包含 Fetch API、Axios、AJAX)
-    - 了解 Typescript 開發基本概念
+- React(Next.js)
+  - 熟悉 React 狀態管理、可重複使用元件開發
+  - 熟悉網頁前後端分離及資料傳遞
+  - 熟悉 API 串接(包含 Fetch API、Axios、AJAX)
+  - 了解 Typescript 開發基本概念
 
 ## 後端技能：
 
