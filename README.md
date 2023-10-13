@@ -50,7 +50,13 @@
 畫面及RWD效果請參考
 https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/edit?usp=drive_link
 
-##### 負責區塊：
+#### 基本介紹：
+- 建立健身房網站，並結合電商功能，販賣課程及實體產品(食品、器材、衣服)
+- React(Next.js)開發前端視覺及切版RWD
+- Node.js(Express)開發後端資料處理及前端資料接收
+- MySQL(MAMP)資料庫，進行資料儲存
+
+#### 負責區塊：
 - 商品、課程加入購物車 API
 - 購物車結帳流程前後端 API 開設與串接
 - 藍新金流串接
@@ -61,7 +67,7 @@ https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/
 
 <img src="ubikesystem.png" alt="網站LOGO" width="830" height="386">
 
-##### 負責區塊：
+#### 基本介紹：
 - 基本頁面形象呈現
 - 串接台北市政府ubike及時站點API
 
