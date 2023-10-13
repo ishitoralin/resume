@@ -43,6 +43,9 @@
 
 ### 網站LOGO：
 <img src="fortress-imagine.png" alt="網站LOGO" width="300" height="90">
+畫面及RWD效果請參考
+https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/edit?usp=drive_link
+
 
 # 經歷
 
