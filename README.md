@@ -43,6 +43,7 @@
 
 ## 開發經驗：
 
+## 大型專案：
 ### 網站 LOGO：
 
 <img src="fortress-imagine.png" alt="網站LOGO" width="300" height="90">
@@ -62,7 +63,7 @@ https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/
 - 寄送訂單明細 API
 - 購物車所有頁面 RWD 設計
 
-### 個人專案：
+## 個人專案：
 
 <img src="ubikesystem.png" alt="網站LOGO" width="830" height="386">
 
