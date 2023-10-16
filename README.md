@@ -43,7 +43,6 @@
 
 ## 開發經驗：
 
-## 大型專案：
 ### 網站 LOGO：
 
 <img src="fortress-imagine.png" alt="網站LOGO" width="300" height="90">
