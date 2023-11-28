@@ -68,7 +68,7 @@ https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/
 
 #### 基本介紹：
 - 基本頁面形象呈現
-- 串接台北市政府ubike及時站點API
+- 串接台北市政府ubike即時站點API
 
 
 
