@@ -14,8 +14,8 @@
 ## Frontend：
 
 - HTML/CSS:
-  - Proficient in writing native code to replicate styles presented in Figma designs.
-  - Experienced with frameworks such as Bootstrap and Material UI to expedite development processes.
+  - Proficient in writing code to replicate styles presented in Figma designs.
+  - Experienced with frameworks such as Bootstrap 、 Material UI and VueForm to expedite development processes.
   - Skilled in layout and responsive web design (RWD) techniques, including grid, flexbox, position, and z-index.
   - Familiar with using Sass to accelerate project development.
 
