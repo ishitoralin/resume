@@ -10,18 +10,14 @@
 ## System：
   - Experienced with Linux systems.
   - Experienced with developing new projects or maintaince old projects in both Windows and Linux.
+  - Experienced with docker and kubernetes, includes GUI
 
 ## Frontend：
 
-- HTML/CSS:
-  - Proficient in writing code to replicate styles presented in Figma designs.
-  - Experienced with frameworks such as Bootstrap 、 Material UI and VueForm to expedite development processes.
-  - Skilled in layout and responsive web design (RWD) techniques, including grid, flexbox, position, and z-index.
-  - Familiar with using Sass to accelerate project development.
-
-- Javascript ES5/ES6 語法
-
-  - 熟悉使用 JS 原生語法串接 API
+- HTML/CSS/Javascript (ES5/ES6):
+    - Proficient in writing code to replicate styles presented in Figma designs.
+    - Experienced with frameworks such as Bootstrap, Material UI and VueForm to expedite development processes.
+    - Skilled in layout and responsive web design (RWD) techniques, including grid, flexbox, position, and z-index.
 
 - React(Next.js)
   - 熟悉 React 狀態管理、可重複使用元件開發
@@ -31,38 +27,37 @@
 
 - Vue.js (Vue2 & Vue3)
   - 熟悉Option API (Vue2)
-  - 熟悉Composition API (Vue3)，包含Setup()及<script setup>
-  - 熟悉資料傳遞方法，包含props、context、provider、inject語法
-  - 熟悉Vuex語法
+  - 熟悉Composition API (Vue3)
+  - 熟悉資料傳遞方法，包含props、emits、defineModels等語法
+  - 熟悉Vuex
     
-## 後端技能：
+## Backend：
 
 - Node.js(Express)
+  - 資料庫串接(MySQL、MAMP，了解 MongoDB 基本概念)
+  - 由前端送來資料型態處理
+  - middleware 建立及使用
 
-  - 熟悉資料庫串接(MySQL、MAMP，了解 MongoDB 基本概念)
-  - 熟悉由前端送來資料型態處理
-  - 熟悉 middleware 建立及使用
+- docker
+  - Dockerfile撰寫
+  - Docker compose
+  - kubernetes建立及使用
+  - GUI工具Docker desktop及Portainer使用
+  - Docker engine remote API建立及串接
 
 ## 開發經驗：
+### 軟體開發：
 
-### 網站 LOGO：
 
-<img src="fortress-imagine.png" alt="網站LOGO" width="300" height="90">
-畫面及RWD效果請參考
-https://docs.google.com/document/d/1FsVbCKiITJKM9i2pbdNGzK4_SHCU4NF5nDmyrBKO2tg/edit?usp=drive_link
-
-#### 基本介紹：
+### 網站開發：
 - 建立健身房網站，並結合電商功能，販賣課程及實體產品(食品、器材、衣服)
 - React(Next.js)開發前端視覺及切版RWD
 - Node.js(Express)開發後端資料處理及前端資料接收
 - MySQL(MAMP)資料庫，進行資料儲存
-
-#### 負責區塊：
-- 商品、課程加入購物車 API
-- 購物車結帳流程前後端 API 開設與串接
-- 藍新金流串接
-- 寄送訂單明細 API
-- 購物車所有頁面 RWD 設計
+- 商品加入購物車
+- 購物車結帳流程前後端 API 開發與串接
+- 金流串接(藍新、Linepay)
+- 寄送訂單明細
 
 ## 個人專案：
 
