@@ -8,45 +8,54 @@
 # Professional Skills
 
 ## System：
-  - Experienced with Linux systems.
-  - Experienced with developing new projects or maintaince old projects in both Windows and Linux.
-  - Experienced with docker and kubernetes, includes GUI
+  - Experienced with:
+    1. Linux systems.
+    2. Develope new projects or maintain old projects in both Windows and Linux.
+    3. Basic docker function and concepts.
 
 ## Frontend：
 
 - HTML/CSS/Javascript (ES5/ES6):
-    - Proficient in writing code to replicate styles presented in Figma designs.
-    - Experienced with frameworks such as Bootstrap, Material UI and VueForm to expedite development processes.
-    - Skilled in layout and responsive web design (RWD) techniques, including grid, flexbox, position, and z-index.
-
-- React(Next.js)
-  - 熟悉 React 狀態管理、可重複使用元件開發
-  - 熟悉網頁前後端分離及資料傳遞
-  - 熟悉 API 串接(包含 Fetch API、Axios、AJAX)
-  - 了解 Typescript 開發基本概念
+    1. Proficient in writing code to replicate styles presented in Figma designs.
+    2. Frameworks such as Bootstrap, Material UI and VueForm to expedite development processes.
+    3. Skilled in layout and responsive web design (RWD) techniques, including grid, flexbox, position, and z-index.
 
 - Vue.js (Vue2 & Vue3)
-  - 熟悉Option API (Vue2)
-  - 熟悉Composition API (Vue3)
-  - 熟悉資料傳遞方法，包含props、emits、defineModels等語法
-  - 熟悉Vuex
-    
-## Backend：
+  - Option API (Vue2)
+  - Composition API (Vue3)
+  - 資料傳遞方法，包含props/emits、provide/inject、defineModels等語法
+  - Vue state management: Vuex4.0 and Pinia
+  - Vue router management
 
+- React(Next.js)
+  - React狀態管理Redux
+  - 資料傳遞方法，包含props/callback
+  - API 串接(包含 Fetch API、Axios、AJAX)
+  - Typescript 開發基本概念
+  
+## Backend：
 - Node.js(Express)
-  - 資料庫串接(MySQL、MAMP，了解 MongoDB 基本概念)
+  - 資料庫串接(MySQL，了解 MongoDB 基本概念)
   - 由前端送來資料型態處理
   - middleware 建立及使用
+  - fs system
 
-- docker
+- Docker
   - Dockerfile撰寫
   - Docker compose
-  - kubernetes建立及使用
   - GUI工具Docker desktop及Portainer使用
   - Docker engine remote API建立及串接
 
-## 開發經驗：
+
+## 開發專案經驗：
 ### 軟體開發：
+
+  1. 原有產品新增CIS benchmark功能
+     -  Vue router 建立CIS檢驗流程
+     -  模組化Axios，減少一半呼叫API相關程式碼，增加可讀性。
+     -  Vue輸出html report
+     -  Chart.js圖像化產品報告
+  2. 新產品新增CIS benchmark功能
 
 
 ### 網站開發：
@@ -54,23 +63,17 @@
 - React(Next.js)開發前端視覺及切版RWD
 - Node.js(Express)開發後端資料處理及前端資料接收
 - MySQL(MAMP)資料庫，進行資料儲存
-- 商品加入購物車
 - 購物車結帳流程前後端 API 開發與串接
 - 金流串接(藍新、Linepay)
-- 寄送訂單明細
 
-## 個人專案：
-
-<img src="ubikesystem.png" alt="網站LOGO" width="830" height="386">
-
-#### 基本介紹：
-- 基本頁面形象呈現
-- 串接台北市政府ubike即時站點API
-
-
+### 基本介紹：
+- Ubike站點查詢介面
+- 串接台北市政府Ubike即時站點API
 
 # 經歷
 
+- **2024~2025** 現職 新漢股份有限公司 前端工程師
+  - 工作內容：工業4.0解決方案：雲端伺服器架設、邊緣運算機器軟體開發。
 - **2023~2023** 進修 資展國際前端工程師養成班
 - **2020~2022** 就職 衛生福利部食品藥物管理署
   - 工作內容：醫療器材(醫療電子)效能檢驗、安全性測試及軟體確效報告審核。
