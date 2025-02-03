@@ -9,46 +9,49 @@
 
 ## System：
   - Experienced with:
-    1. Linux systems.
-    2. Develope new projects or maintain old projects in both Windows and Linux.
-    3. Basic docker function and concepts.
+    -  Linux systems.
+    -  Develope new projects or maintain old projects in both Windows and Linux.
+    -  Basic docker function and concepts.
 
 ## Frontend：
 
-- HTML/CSS/Javascript (ES5/ES6):
-    1. Proficient in writing code to replicate styles presented in Figma designs.
-    2. Frameworks such as Bootstrap, Material UI and VueForm to expedite development processes.
-    3. Skilled in layout and responsive web design (RWD) techniques, including grid, flexbox, position, and z-index.
+1. HTML/CSS/Javascript (ES5/ES6):
+    - Proficient in writing code to replicate styles presented in Figma designs.
+    - Frameworks such as Bootstrap, Material UI and VueForm to expedite development processes.
+    -  Skilled in layout and responsive web design (RWD) techniques, including grid, flexbox, position, and z-index.
 
-- Vue.js (Vue2 & Vue3)
-  - Option API (Vue2)
-  - Composition API (Vue3)
-  - Data transmission methods, including props/emits, provide/inject, and defineModels syntax.
-  - Vue state management: Vuex4.0 and Pinia
-  - Vue router management
+2. Vue.js (Vue2 & Vue3)
+      - Option API (Vue2)
+      - Composition API (Vue3)
+      - Data transmission methods, including props/emits, provide/inject, and defineModels syntax.
+      - Vue state management: Vuex4.0 and Pinia
+      - Vue router management
 
-- React(Next.js)
-  - JSX syntax 
-  - React state management: Redux
-  - Data transmission including props/callback.
-  
+3. React(Next.js)
+      - JSX syntax 
+      - React state management: Redux
+      - Data transmission including props/callback.
+4. Pack
+     - Vue-Cli
+     - Webpack
+     - Vite
 ## Backend：
-- Node.js(Express)
-  - Communicate with database (MySQL)
-  - TLS settings (https)
-  - JWT (user login)
-  - middleware
-  - Server-Sends Events (SSE)
-  - fs system
-- golang(gin)
+1. Node.js(Express)
+      - Communicate with database (MySQL)
+      - TLS settings (https)
+      - JWT (user login)
+      - middleware
+      - Server-Sends Events (SSE)
+      - fs system
+2. golang(gin)
     - fmt
     - os
     - Goroutine
     - sync.Mutex
-- Docker
-  - Dockerfile
-  - Docker compose
-  - Docker GUI tool design and remote api server creation
+3. Docker
+      - Dockerfile
+      - Docker compose
+      - Docker GUI tool design and remote api server creation
 
 
 ## 開發專案經驗：
@@ -70,16 +73,16 @@
      - 使用vue3(Composition API)及vue cli開發docker GUI介面
 
 ### 網站開發：
-- 建立健身房網站，並結合電商功能，販賣課程及實體產品(食品、器材、衣服)
-- React(Next.js)開發前端視覺及切版RWD
-- Node.js(Express)開發後端資料處理及前端資料接收
-- MySQL(MAMP)資料庫，進行資料儲存
-- 購物車結帳流程前後端 API 開發與串接
-- 金流串接(藍新、Linepay)
-
-### 基本介紹：
-- Ubike站點查詢介面
-- 串接台北市政府Ubike即時站點API
+1. 健身房網站
+    - 建立電商功能，販賣課程及實體產品(食品、器材、衣服)
+    - React(Next.js)開發前端視覺及切版RWD
+    - Node.js(Express)開發後端資料處理及前端資料接收
+    - MySQL(MAMP)資料庫，進行資料儲存
+    - 購物車結帳流程前後端 API 開發與串接
+    - 金流串接(藍新、Linepay)
+2. Ubike站點查詢系統
+    - React(Next.js)開發前端視覺介面
+    - 串接台北市政府Ubike即時站點API
 
 # 經歷
 
