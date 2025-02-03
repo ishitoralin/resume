@@ -23,28 +23,32 @@
 - Vue.js (Vue2 & Vue3)
   - Option API (Vue2)
   - Composition API (Vue3)
-  - 資料傳遞方法，包含props/emits、provide/inject、defineModels等語法
+  - Data transmission methods, including props/emits, provide/inject, and defineModels syntax.
   - Vue state management: Vuex4.0 and Pinia
   - Vue router management
 
 - React(Next.js)
-  - React狀態管理Redux
-  - 資料傳遞方法，包含props/callback
-  - API 串接(包含 Fetch API、Axios、AJAX)
-  - Typescript 開發基本概念
+  - JSX syntax 
+  - React state management: Redux
+  - Data transmission including props/callback.
   
 ## Backend：
 - Node.js(Express)
-  - 資料庫串接(MySQL，了解 MongoDB 基本概念)
-  - 由前端送來資料型態處理
-  - middleware 建立及使用
+  - Communicate with database (MySQL)
+  - TLS settings (https)
+  - JWT (user login)
+  - middleware
+  - Server-Sends Events (SSE)
   - fs system
-
+- golang(gin)
+    - fmt
+    - os
+    - Goroutine
+    - sync.Mutex
 - Docker
-  - Dockerfile撰寫
+  - Dockerfile
   - Docker compose
-  - GUI工具Docker desktop及Portainer使用
-  - Docker engine remote API建立及串接
+  - Docker GUI tool design and remote api server creation
 
 
 ## 開發專案經驗：
@@ -52,11 +56,18 @@
 
   1. 原有產品新增CIS benchmark功能
      -  Vue router 建立CIS檢驗流程
-     -  模組化Axios，減少一半呼叫API相關程式碼，增加可讀性。
+     -  模組化Axios，減少一半呼叫API相關程式碼，增加可讀性
      -  Vue輸出html report
-     -  Chart.js圖像化產品報告
-  2. 新產品新增CIS benchmark功能
-
+     -  使用Chart.js實現統計資料視覺化圖像化
+  2. 產品新增線上更新功能
+     -  使用Azure建立Web service，提供檔案比對、下載、上傳
+     -  API功能分離，官方使用者使用JWT控管上傳流程，邊緣運算機台使用hash控管比對、下載功能。
+     -  修改產品打包流程Control file，由dpkg檔改為加密gpg檔
+     -  修改所有產品Service file ExecStart指向共同script，由script控管產品啟動、版本切換邏輯，任何產品維護時僅需針對共同script修改，減少人力耗損。
+     -  使用Vue建立單頁更新頁面，使用者使用左鍵即可完成更新
+  3. Docker GUI設計開發
+     - 使用node.js及dockerode建立docker remote server
+     - 使用vue3(Composition API)及vue cli開發docker GUI介面
 
 ### 網站開發：
 - 建立健身房網站，並結合電商功能，販賣課程及實體產品(食品、器材、衣服)
@@ -73,7 +84,7 @@
 # 經歷
 
 - **2024~2025** 現職 新漢股份有限公司 前端工程師
-  - 工作內容：工業4.0解決方案：雲端伺服器架設、邊緣運算機器軟體開發。
+  - 工作內容：工業4.0解決方案，包含雲端伺服器架設、邊緣運算機器軟體開發。
 - **2023~2023** 進修 資展國際前端工程師養成班
 - **2020~2022** 就職 衛生福利部食品藥物管理署
   - 工作內容：醫療器材(醫療電子)效能檢驗、安全性測試及軟體確效報告審核。
@@ -94,6 +105,6 @@
 
 隨後，我在2019年離職，前往日本進修一年，並於2017年取得N3證照。2020年疫情影響，我回到台灣，開始在衛生福利部食品藥物管理署擔任副審查員。在這兩年半的職務中，我負責測試報告的審核，尤其對醫療電子產品的效能、安全性、軟體進行嚴謹的審查，並核發相應的許可證。這段經驗讓我深刻認識到醫療設備日益走向AI化的趨勢。
 
-觀察到科技的迅速進步，我決定跳脫傳統醫材相關領域，轉而追求前端工程師的職業。於資展國際的前端網頁開發班進修，我與團隊成功以React、Node.js及MySQL等技術合作開發出一個複合式健身房電商網站，這項成就讓我深感滿足。
+觀察到科技的迅速進步，我決定跳脫傳統醫材相關領域，轉而追求可以接觸AI技術的職業，並以前端工程師作為踏出的第一步。於資展國際的前端網頁開發班進修，我與團隊成功以React、Node.js及MySQL等技術合作開發出一個複合式健身房電商網站。結業後於新漢股份有限公司軟體開發部門擔任前端工程師一職，並開始著手邊緣運算機台的產品開發。訓練期過後開始單獨或與他人合作開發專案，內容包含使用Vue進行軟體GUI開發，使用Azure及Node.js開發雲端伺服器，並開始接觸golang及docker進行後端伺服器開發，讓自己的技術漸漸地往全端工程師邁進。
 
 經歷如此多元的領域，我相信我的多方面技能和豐富經驗將成為未來挑戰的寶貴資產。
