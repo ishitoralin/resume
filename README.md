@@ -49,9 +49,12 @@
     - Goroutine
     - sync.Mutex
 3. Docker
-      - Dockerfile
-      - Docker compose
-      - Docker GUI tool design and remote api server creation
+    - Dockerfile
+    - Docker compose
+    - Docker GUI tool design and remote api server creation
+4. Azure
+    - Azure web app
+    - Azure VM
 
 
 ## 開發專案經驗：
