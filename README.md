@@ -11,7 +11,7 @@
   - Experienced with:
     -  Linux systems.
     -  Develope new projects or maintain old projects in both Windows and Linux.
-    -  Basic docker function and concepts.
+    -  Docker
 
 ## Frontend：
 
