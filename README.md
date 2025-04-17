@@ -30,7 +30,7 @@
 3. React(Next.js)
       - JSX syntax 
       - React state management: Redux
-      - Data transmission including props/callback.
+      - Basic hook useState, useEffect and more...
 4. Pack
      - Vue-Cli
      - Webpack
