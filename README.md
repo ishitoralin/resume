@@ -48,6 +48,10 @@
     - os
     - Goroutine
     - sync.Mutex
+3. python
+    - fastapi
+    - flask
+    - microservices    
 3. Docker
     - Dockerfile
     - Docker compose
