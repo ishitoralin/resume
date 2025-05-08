@@ -11,7 +11,7 @@
   - Experienced with:
     -  Linux systems.
     -  Develope new projects or maintain old projects in both Windows and Linux.
-    -  Docker
+    -  Basic docker function and concepts.
 
 ## Frontend：
 
@@ -30,7 +30,7 @@
 3. React(Next.js)
       - JSX syntax 
       - React state management: Redux
-      - Basic hook useState, useEffect and more...
+      - Data transmission including props/callback.
 4. Pack
      - Vue-Cli
      - Webpack
@@ -48,17 +48,10 @@
     - os
     - Goroutine
     - sync.Mutex
-3. python
-    - fastapi
-    - flask
-    - microservices    
 3. Docker
-    - Dockerfile
-    - Docker compose
-    - Docker GUI tool design and remote api server creation
-4. Azure
-    - Azure web app
-    - Azure VM
+      - Dockerfile
+      - Docker compose
+      - Docker GUI tool design and remote api server creation
 
 
 ## 開發專案經驗：
@@ -69,7 +62,7 @@
      -  模組化Axios，減少一半呼叫API相關程式碼，增加可讀性
      -  Vue輸出html report
      -  使用Chart.js實現統計資料視覺化圖像化
-  2. 產品新增線上更新功能
+  2. 產品新增線上更新功能(OTA)
      -  使用Azure建立Web service，提供檔案比對、下載、上傳
      -  API功能分離，官方使用者使用JWT控管上傳流程，邊緣運算機台使用hash控管比對、下載功能。
      -  修改產品打包流程Control file，由dpkg檔改為加密gpg檔
@@ -78,6 +71,8 @@
   3. Docker GUI設計開發
      - 使用node.js及dockerode建立docker remote server
      - 使用vue3(Composition API)及vue cli開發docker GUI介面
+  4. AD server架設及串接
+     - 使用python fastapi開發AD帳號驗證功能。
 
 ### 網站開發：
 1. 健身房網站
@@ -93,7 +88,7 @@
 
 # 經歷
 
-- **2024~____** 現職 新漢股份有限公司 前端工程師
+- **2024~2025** 現職 新漢股份有限公司 前端工程師
   - 工作內容：工業4.0解決方案，包含雲端伺服器架設、邊緣運算機器軟體開發。
 - **2023~2023** 進修 資展國際前端工程師養成班
 - **2020~2022** 就職 衛生福利部食品藥物管理署
@@ -107,7 +102,7 @@
 
 # 自傳
 
-2016年，取得陽明大學醫工所的碩士學位。回顧起自己的成長，一直都是新北市的常駐居民。在高中時期，對生物學的濃厚興趣驅使我選擇就讀生物科技學系。透過大學歲月，我累積了豐富的基礎生物學實驗技能。
+2016年，我榮獲陽明大學醫工所的碩士學位。回顧起自己的成長，一直都是新北市的常駐居民。在高中時期，對生物學的濃厚興趣驅使我選擇就讀生物科技學系。透過大學歲月，我累積了豐富的基礎生物學實驗技能。
 
 渴望深入研究生物學相關新知識，我毅然進入陽明大學醫工所攻讀碩士學位。在這兩年中，我不僅在材料及骨科力學上有了初步的認識，更有幸在羅俊民老師的指導下深入學習了幹細胞、細胞力學等技術。我還學會了如何運用程式分析細胞行為模式，以及在Linux環境下進行細胞力學的分析，最終順利完成論文並畢業。
 
